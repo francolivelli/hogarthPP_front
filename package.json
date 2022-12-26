@@ -9,17 +9,9 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/caartos/hogarthPP_Front.git"
-  },
   "keywords": [],
-  "author": "",
+  "author": "Natalia Machella",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/caartos/hogarthPP_Front/issues"
-  },
-  "homepage": "https://github.com/caartos/hogarthPP_Front#readme",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.13",
     "@chakra-ui/react": "^2.4.1",
