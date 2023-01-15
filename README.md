@@ -1,2 +1,2 @@
 # hogarthPP_Front
-Front end - Hogarth Proyect
+Front end - Hogarth Project
